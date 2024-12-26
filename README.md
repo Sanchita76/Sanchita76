@@ -112,7 +112,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wizaye/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Sanchita76/count.svg?"  />
 </div>
 
 ###
