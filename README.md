@@ -20,20 +20,20 @@
 
 ###
 
-<h1 align="center">Welcome to my profile ! 🌟</h1>
+<h1 align="center">💥Welcome to my profile ! 🌟💛👀</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me👩‍🎓🙅‍♀️</h3>
 
 ###
 
-<p align="left">I'm Mehuli Biswas,  from Kolkata ,India<br><br>- 🔭 I'm an aspiring SDE with a solid foundation in competitive programming . 
-<br>- 🌱 I’m an AI/ML enthusiast with strong grasp over Data Scince & ML Algorithms<br>-  👯 I’m looking to collaborate on AI & ML Pprojects & web applications 🤝<br>- </p>
+<p align="left">I'm Mehuli Biswas,  from Kolkata ,India<br><br>- 🔭 I'm an aspiring SDE with a solid foundation in competitive programming🚀❤💫 . 
+<br>- 🌱 I’m an AI/ML enthusiast with strong grasp over Data Scince & ML Algorithms🦾<br>-  👯 I’m looking to collaborate on AI & ML Pprojects & web applications ✌🤝<br>- </p>
 
 ###
 
-<h3 align="left">🛠 My Skill Set</h3>
+<h3 align="left">🛠 My Skill Set🥉  </h3>
 
 ### <table><tr><td valign="top" width="33%">
 
@@ -107,7 +107,7 @@
   
 </div>
 
-### 👀 Profile Counter 👀
+### 🎉✨Profile Counter 👀
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sanchita76/count.svg?"  />
