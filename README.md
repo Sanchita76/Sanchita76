@@ -95,17 +95,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wizaye&show_icons=true&count_private=true&hide_border=false&theme=tokyonight" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanchita76&show_icons=true&count_private=true&hide_border=false&theme=tokyonight" height="250" alt="stats graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wizaye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanchita76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="220" alt="languages graph"  />
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wizaye&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sanchita76&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizaye&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchita76&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&order=5" height="300" alt="activity-graph graph"  />
   
 </div>
 
