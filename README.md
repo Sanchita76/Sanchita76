@@ -107,7 +107,7 @@
   
 </div>
 
-###<div align="center" Profile Counter>
+### 👀 Profile Counter 👀
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sanchita76/count.svg?"  />
