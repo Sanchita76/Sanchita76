@@ -75,8 +75,6 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>  
 
 <a href="https://www.cppprogramming.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="CPP" height="50" /></a> 
-<a href="https://www.r-project.org/about.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=r" alt="R" height="50" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=matlab" alt="matlab" height="50" /></a>  
 </div>
 
 </td></tr></table>  
