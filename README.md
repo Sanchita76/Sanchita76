@@ -28,8 +28,38 @@
 
 ###
 
-<p align="left">I'm Mehuli Biswas, SDE @ BlueStock Fintech(Feb'25-Mar'2) from Kolkata ,India<br><br>- 🔭 I'm an aspiring SDE with a solid foundation in competitive programming🚀❤💫 . 
-<br>- 🌱 I’m an AI/ML enthusiast with strong grasp over Data Scince & ML Algorithms🦾<br>- 🔊 👯 I’m looking to collaborate on AI & ML Pprojects & web applications ✌🤝<br> </p>
+<div align="center">
+
+# Hi, I'm Mehuli Biswas! 🚀  
+### SDE @ BlueStock Fintech (Feb'25 - Mar'25)
+📍 Kolkata, India  
+
+---
+## 💻 About Me
+<p align="left">
+LeetCode Programmer 📝  | GeeksforGeeks Programmer 🤓  | Competitive Programming Enthusiast 💡  | AI/ML Innovator 🤖 |Data Science Expert 📊  
+</p>
+🚀 Let's Collaborate!
+<p align="left">
+I'm passionate about working on **cutting-edge AI, ML, and web development projects**.  
+Looking forward to connecting and building something amazing together! ✌👯  
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/mehuli-biswas-817246334/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://github.com/Sanchita76">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+</p>
+
+🔥 *Let's innovate and create something incredible!* 🚀
+
+</div>
 
 ###
 
