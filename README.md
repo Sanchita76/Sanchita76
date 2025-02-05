@@ -28,8 +28,8 @@
 
 ###
 
-<p align="left">I'm Mehuli Biswas,  from Kolkata ,India<br><br>- 🔭 I'm an aspiring SDE with a solid foundation in competitive programming🚀❤💫 . 
-<br>- 🌱 I’m an AI/ML enthusiast with strong grasp over Data Scince & ML Algorithms🦾<br>- 🔊 👯 I’m looking to collaborate on AI & ML Pprojects & web applications ✌🤝<br>- </p>
+<p align="left">I'm Mehuli Biswas, SDE @ BlueStock Fintech(Feb'25-Mar'2) from Kolkata ,India<br><br>- 🔭 I'm an aspiring SDE with a solid foundation in competitive programming🚀❤💫 . 
+<br>- 🌱 I’m an AI/ML enthusiast with strong grasp over Data Scince & ML Algorithms🦾<br>- 🔊 👯 I’m looking to collaborate on AI & ML Pprojects & web applications ✌🤝<br> </p>
 
 ###
 
