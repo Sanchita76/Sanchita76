@@ -12,7 +12,7 @@
   <a href="mailto:mehulibiswas16@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://sanchita76.github.io/Personal-Portfolio-Website/" target="_blank">
+  <a href="https://mehulibiswas.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="vercel logo"  />
   </a>
 </div>
