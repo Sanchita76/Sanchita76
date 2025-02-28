@@ -41,7 +41,7 @@ LeetCode Programmer 📝  | GeeksforGeeks Programmer 🤓  | Competitive Program
 </p>
 🚀 Let's Collaborate!
 <p align="left">
-I'm passionate about working on **cutting-edge AI, ML, and web development projects**.  
+I'm passionate about working on cutting-edge AI, ML, and web development projects.  
 Looking forward to connecting and building something amazing together! ✌👯  
 </p>
 
