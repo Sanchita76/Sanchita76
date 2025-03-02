@@ -30,16 +30,16 @@
 
 <div align="center">
 
-# Hi!, I'm Mehuli Biswas! 🚀  
-### SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25)
+# Hi! I'm Mehuli Biswas! 🚀  
+### 💼 SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) 🧑🏻‍💻
 📍 Kolkata, India  
 
 ---
-## 💻 About Me 
+## 💻 About Me 🌟
 <p align="left">
 LeetCode Programmer 📝  | GeeksforGeeks Programmer 🤓  | Competitive Programming Enthusiast 💡  | AI/ML Innovator 🤖 |Data Science Expert 📊  
 </p>
-🚀 Let's Collaborate!
+🚀 Let's Collaborate!💡
 <p align="left">
 I'm passionate about working on cutting-edge AI, ML, and web development projects.  
 Looking forward to connecting and building something amazing together! ✌👯  
@@ -47,7 +47,7 @@ Looking forward to connecting and building something amazing together! ✌👯
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me 🤝
 <p align="center">
 <a href="https://www.linkedin.com/in/mehuli-biswas-817246334/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
