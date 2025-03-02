@@ -24,18 +24,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me👩‍🎓🙅‍♀️</h3>
+<h3 align="left">👩‍💻 About Me👩‍🎓🙅‍♀️</h3>
 
 ###
 
 <div align="center">
 
-# Hi, I'm Mehuli Biswas! 🚀  
-### SDE @ BlueStock Fintech (Feb'25 - Mar'25)
+# Hi!, I'm Mehuli Biswas! 🚀  
+### SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25)
 📍 Kolkata, India  
 
 ---
-## 💻 About Me
+## 💻 About Me 
 <p align="left">
 LeetCode Programmer 📝  | GeeksforGeeks Programmer 🤓  | Competitive Programming Enthusiast 💡  | AI/ML Innovator 🤖 |Data Science Expert 📊  
 </p>
