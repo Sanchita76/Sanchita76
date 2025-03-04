@@ -32,7 +32,7 @@
 
 # Hi! I'm Mehuli Biswas! 🚀  
 ### 💼 SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) 🧑🏻‍💻
-📍 Kolkata,West Bengal, India  
+📍 Kolkata, West Bengal, India  
 
 ---
 ## 💻 About Me 🌟
@@ -87,13 +87,9 @@ Looking forward to connecting and building something amazing together! ✌👯
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="Mongo DB" height="50" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node JS" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>    
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
 
@@ -103,7 +99,6 @@ Looking forward to connecting and building something amazing together! ✌👯
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>  
-
 <a href="https://www.cppprogramming.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="CPP" height="50" /></a> 
 </div>
 
