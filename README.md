@@ -37,7 +37,7 @@
 ---
 ## 💻 About Me 🌟
 <p align="left">
-LeetCode Programmer 📝  | GeeksforGeeks Programmer 🤓  | Competitive Programming Enthusiast 💡  | AI/ML Innovator 🤖 |Data Science Expert 📊  
+LeetCode Programmer 📝  | GeeksforGeeks Programmer 🤓  |💡 AI/ML Developer 🤖 |Data Science Enthusiast📊  
 </p>
 🚀 Let's Collaborate!💡
 <p align="left">
