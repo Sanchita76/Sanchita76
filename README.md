@@ -32,7 +32,7 @@
 
 # Hi! I'm Mehuli Biswas! 🚀  
 ### 💼 SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) 🧑🏻‍💻
-📍 Kolkata, India  
+📍 Kolkata,West Bengal, India  
 
 ---
 ## 💻 About Me 🌟
