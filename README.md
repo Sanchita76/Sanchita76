@@ -31,7 +31,7 @@
 <div align="center">
 
 # Hi! I'm Mehuli Biswas! 🚀  
-### 💼 Ex-SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) | AI Intern @ Microsoft-AICTE🧑🏻‍💻
+### 💼 Ex-SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) | AI Intern @ Microsoft-AICTE🧑🏻‍💻 |SheCodes,WestBengal Gov Scholar |Google Girl Hackathon SEmifinalist'2025 | Google Arcade Champion'2025| WBJEE Top 7%
 📍 Kolkata, West Bengal, India  
 
 ---
