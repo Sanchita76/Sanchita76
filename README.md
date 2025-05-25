@@ -37,12 +37,11 @@
 ---
 ## 💻 About Me 🌟
 <p align="left">
-LeetCode Programmer 📝  | GeeksforGeeks Programmer 🤓  |💡 AI/ML Developer 🤖 |Data Science Enthusiast📊  
+📝 LeetCode,Codeforces,GeeksforGeeks Programmer 🤓 |💡 AI/ML, Web Developer 🤖 |Data Science Enthusiast📊  
 </p>
 🚀 Let's Collaborate!💡
 <p align="left">
-I'm passionate about working on cutting-edge AI, ML, and web development projects.  
-Looking forward to connecting and building something amazing together! ✌👯  
+I'm passionate about working on cutting-edge AI, ML, and web development projects.I take interest in DSA and competittive programming on various platforms. Looking forward to connecting and building something amazing together! ✌👯  
 </p>
 
 ---
