@@ -31,7 +31,7 @@
 <div align="center">
 
 # Hi! I'm Mehuli Biswas! 🚀  
-### 💼 SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) 🧑🏻‍💻
+### 💼 Ex-SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) | AI Intern @ Microsoft-AICTE🧑🏻‍💻
 📍 Kolkata, West Bengal, India  
 
 ---
