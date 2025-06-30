@@ -46,7 +46,7 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
 
 ---
 
-## 🔗 Connect with Me 🤝
+## 🔗 Coding Profiles 
 <p align="center">
 <a href="https://www.linkedin.com/in/mehuli-biswas-817246334/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
