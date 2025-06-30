@@ -51,6 +51,11 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
 <a href="https://www.linkedin.com/in/mehuli-biswas-817246334/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
+
+  <a href="https://codeforces.com/profile/mehulibiswas16">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=codeforces" alt="LinkedIn">
+</a>
+  
 <a href="https://github.com/Sanchita76">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
