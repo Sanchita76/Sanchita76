@@ -56,8 +56,8 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
   <img src="https://img.shields.io/badge/Codeforces-black?style=for-the-badge&logo=codeforces" alt="Codeforces">
 </a>
   
-<a href="">
-  <img src="https://img.shields.io/badge/GeeksgorGeeks-white?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks">
+<a href="https://www.geeksforgeeks.org/user/mehulibiswas16/">
+  <img src="https://img.shields.io/badge/GeeksgorGeeks-orange?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks">
 </a>
 
 <a href="https://github.com/Sanchita76">
