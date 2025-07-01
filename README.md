@@ -65,6 +65,8 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
 
 ### 🎨 Frontend Frameworks & Libraries  
 ![image](https://github.com/user-attachments/assets/cd219bb1-5c50-4135-bb38-d7c004fc363f)
+![1751382125020258502637132704946](https://github.com/user-attachments/assets/aa0f7ea0-29c4-45ea-b1a9-2bf1dd8469ea)
+![17513821930534969324833027383014](https://github.com/user-attachments/assets/8d701f76-69ca-4245-8906-684ea06701a1)
 
 
 ### 🗄️ Databases  
