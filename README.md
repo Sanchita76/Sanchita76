@@ -3,38 +3,16 @@
 </div>  
 </br>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mehuli-biswas-817246334/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mehulibiswas16@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://mehulibiswas.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="vercel logo"  />
-  </a>
-</div>
-
-
-###
-
-<h1 align="center">💥Welcome to my profile ! 🌟👀</h1>
-
-###
-
-<h3 align="center">👩‍💻 About Me👩‍🎓🙅‍♀️</h3>
+<h1 align="center">Hey there!👋   I'm Mehuli Biswas! 👩‍🎓👩‍💻 </h1>
 
 ###
 
 <div align="center">
+ 
+### <img src="https://github.com/user-attachments/assets/a405d9f5-299e-48a0-a516-689d88511ae1" width="25" height="25"> Google Girl Hackathon Semifinalist '2025 | <img src="https://github.com/user-attachments/assets/4771d262-80bc-4ab7-bf5f-cc94070b64d2" width="25" height="25"> Google Cloud Arcade '2025 | <img src="https://github.com/user-attachments/assets/827e105a-d9c2-4854-879f-431a193753d8" width="25" height="25"> GSSOC ' 2024 Contributor |  AIR-11642 WBJEE Top 7% '2022  <img src="https://github.com/user-attachments/assets/eebb827f-9db7-497a-9960-4deec3c4d765 " width="25" height="25"> | MAKAUT '2026 CSE  <img src="https://github.com/user-attachments/assets/20792b6b-68fe-42a7-a7a5-d3429bc2715b" width="25" height="25">
 
-# Hi! I'm Mehuli Biswas! 🚀  
-### 💼 Ex-SDE Intern @ BlueStock Fintech (Feb'25 - Mar'25) |Ex- AI Intern @ Microsoft-AICTE🧑🏻‍💻 |SheCodes'2025,WestBengal Gov Scholar'23,24|Google Girl Hackathon Semifinalist'2025 | Google Cloud Arcade'2025| GSSOC & Hacktoberfest'2024 Contributor | WBJEE Top 7% '2022 |MAKAUT'2026 CSE
-📍 Kolkata, West Bengal, India  
 
----
 ## 💻 About Me 🌟
 <p align="left">
 📝 LeetCode,Codeforces,GeeksforGeeks Programmer 🤓 |💡 AI/ML, Web Developer 🤖 |Data Science Enthusiast📊  
@@ -147,4 +125,17 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
   <img src="https://profile-counter.glitch.me/Sanchita76/count.svg?"  />
 </div>
 
-###
+### 🌐 Connect With Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehuli-biswas-817246334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" />
+  </a>
+    <a href="mailto:mehulibiswas16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://mehulibiswas.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/mehulibiswas16/profile-readme-generator/master/src/assets/icons/social/vercel/default.svg" width="37" height="25" alt="vercel logo"  />
+  </a>
+</div>
