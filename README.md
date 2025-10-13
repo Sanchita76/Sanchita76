@@ -125,9 +125,10 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
 
 ### 🎉✨Profile Counter 👀
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/Sanchita76/count.svg?"  />
-</div>
+</div> -->
+![Github Profile Views](https://komarev.com/ghpvc/?username=Sanchita76&abbreviated=true)
 
 ### 🌐 Connect With Me  
 
