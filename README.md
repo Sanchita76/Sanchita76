@@ -38,14 +38,26 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
 
 <a href="https://github.com/Sanchita76">
   <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge&logo=github" alt="GitHub">
+ <br><br>
 </a>
 
 </p>
 
 </div>
 
-###
+ 
+<div align="center">
+ 
+## Work Experience
 
+| 🏢 Company | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [CodeClouds Solutions Private Limited](https://www.codeclouds.com) | SWE Intern | September 2025 - Present |
+
+</div>
+
+
+<br><br>
 <h3 align="left">🛠 My Skill Set🥉  </h3>
 
 ### <table><tr><td valign="top" width="33%">
