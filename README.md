@@ -19,7 +19,9 @@
 </p>
 🚀 Let's Collaborate!💡
 <p align="left">
-I'm passionate about working on cutting-edge AI, ML, and web development projects.I take interest in DSA (OOPs) and CP on various platforms. Looking forward to connecting and building something amazing together! ✌👯  
+I'm passionate about working on cutting-edge AI, ML, and web development projects.I take interest in DSA (OOPs) and CP on various platforms. Looking forward to connecting and building something amazing together! ✌👯  <br>
+ <p align ="center"> <b> Reach me out ✉ mehulibiswas16@gmail.com</b>
+ <br>
 </p>
 
 
