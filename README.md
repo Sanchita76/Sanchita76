@@ -115,7 +115,9 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanchita76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="220" alt="languages graph"  />
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sanchita76&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" /></a>
+ <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sanchita76&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" /></a>-->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Sanchita76)](https://git.io/streak-stats)</div>
+
 </div>
 
 ###
