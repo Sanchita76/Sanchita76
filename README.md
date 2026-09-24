@@ -27,7 +27,7 @@ I'm passionate about working on cutting-edge AI, ML, and web development project
 
 ## 🔗 Coding Profiles 
 <p align="center">
-<a href=""><img src="https://github.com/user-attachments/assets/66ed662e-77e2-4af7-9147-923b0150500d" height="25" widthg="25"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<a href="https://leetcode.com"><img src="https://github.com/user-attachments/assets/66ed662e-77e2-4af7-9147-923b0150500d" height="25" widthg="25"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
   <a href="https://codeforces.com">
